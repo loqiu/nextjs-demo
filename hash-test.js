@@ -8,3 +8,5 @@ async function test() {
         console.error('hash error: ', err)
     }
 }
+
+test();
